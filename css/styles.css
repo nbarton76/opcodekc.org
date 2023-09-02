@@ -14,6 +14,15 @@ article {
 
 footer {
   background-color: #011638;
+
+
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
   padding-top: 20px;
   padding-bottom: 1px;
+
+  text-align: left;
+
 }
