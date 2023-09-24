@@ -3,6 +3,13 @@
   margin: 1rem;
 }
 
+nav ul li a {
+    color: ##0000FF;
+    text-decoration: none;
+    padding: 1rem;
+    display: block;
+}
+
 header {
   background-color: #011638;
 }
